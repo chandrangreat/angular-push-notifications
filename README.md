@@ -1,4 +1,4 @@
-# AngularPushNotifications
+# Angular Push Notifications
 
 This application was made following the tutorial in https://malcoded.com/posts/angular-push-notifications
 
@@ -15,7 +15,7 @@ This application was made following the tutorial in https://malcoded.com/posts/a
 
 - After running the above and opening up the front-end in the browser click on the `Allow` button in notification that pops up in the browser.
 
--In order to get the push notification in the browser, open up Insomnia or Postman and send a `POST` request to the address `http://localhost:3000/sendNotification`. This will show up the web notification.
+- In order to get the push notification in the browser, open up Insomnia or Postman and send a `POST` request to the address `http://localhost:3000/sendNotification`. This will show up the web notification.
 
 ### Note:
 
